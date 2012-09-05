@@ -5,7 +5,7 @@
 	<version>0.0.1</version>
 	<scm>
 		<connection>scm:git:git@github.com:simplelife1211/11791-hw0-byang1.git</connection>
-		<developerConnection>scm:git:https://github.com:simplelife1211/11791-hw0-byang1.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:simplelife1211/11791-hw0-byang1.git</developerConnection>
 	</scm>
 	<repositories>
   		<repository>
